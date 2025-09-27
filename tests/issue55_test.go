@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/leifj/signedxml"
+	"github.com/tonipico/signedxml"
 
 	"github.com/stretchr/testify/require"
 )
